@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sambhavi24
-- 👀 I’m interested in data science and web development
+- 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me https://www.linkedin.com/in/sambhavi-singh-697447213
